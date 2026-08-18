@@ -1,7 +1,14 @@
-p align="center">
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=harshitjoshi387&theme=inferno&mode=light" />
     <img src="https://www.gitskins.com/api/section/hero?username=harshitjoshi387&theme=inferno" alt="Harshit Joshi profile hero" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/wordmark?username=harshitjoshi387&theme=inferno&mode=light" />
+    <img src="https://www.gitskins.com/api/section/wordmark?username=harshitjoshi387&theme=inferno" alt="Harshit Joshi wordmark" />
   </picture>
 </p>
 
@@ -48,6 +55,13 @@ p align="center">
 </tr>
 </table>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=harshitjoshi387&theme=inferno&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=harshitjoshi387&theme=inferno" alt="Harshit Joshi tech stack" />
+  </picture>
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -57,6 +71,26 @@ p align="center">
   </picture>
 </p>
 
+## 🔥 Streak & Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=harshitjoshi387&hide_border=true&background=0D0000&stroke=FF4500&ring=FF4500&fire=FFA500&currStreakLabel=FF8C00&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=999999" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitjoshi387&theme=react-dark&bg_color=0D0000&color=FF4500&line=FF4500&point=FFA500&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=harshitjoshi387&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+
+</div>
+
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -65,34 +99,6 @@ p align="center">
     <img src="https://www.gitskins.com/api/section/projects?username=harshitjoshi387&theme=inferno" alt="harshitjoshi387 featured projects" />
   </picture>
 </p>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-![C](https://img.shields.io/badge/c-%23FF4500.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%23FF4500.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%23FF4500.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=%23FFA500)
-![HTML5](https://img.shields.io/badge/html5-%23FF4500.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23000000?style=for-the-badge&logo=python&logoColor=FFA500)
-![TypeScript](https://img.shields.io/badge/typescript-%23FF4500.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%23FF4500.svg?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=FFA500)
-![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=%23FF4500)
-![NodeJS](https://img.shields.io/badge/node.js-FF4500?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=FF8C00)
-![Redux](https://img.shields.io/badge/redux-%23FF4500.svg?style=for-the-badge&logo=redux&logoColor=white)
-![React](https://img.shields.io/badge/react-%23000000.svg?style=for-the-badge&logo=react&logoColor=%23FFA500)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23FF4500.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23FF4500.svg?style=for-the-badge&logo=vite&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-FF4500.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23FF4500.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23FF4500.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=FF8C00)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23FF4500.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
 
 ## 🤝 Connect With Me
 
