@@ -2,8 +2,20 @@
 
 <h1 align="center">Hey 👨‍💻 I'm Harshit Joshi</h1>
 
-<div align="center">
+<!-- Animated Coding Banner -->
+<p align="center">
+  <img src="./asset/banner.gif" alt="Harshit Joshi — Late-Night Developer Desk" width="100%" />
+</p>
 
+<!-- Introduction Card -->
+<div align="center">
+  <img src="./asset/profile_card.svg" alt="Harshit Joshi — The Builder" width="100%" />
+</div>
+
+<br/>
+
+<!-- Developer Project Map -->
+<div align="center">
   <img src="./asset/project_map.svg" alt="Project Map — The languages and tools behind what I build" width="100%" />
 
   <br/><br/>
@@ -13,9 +25,6 @@
     <a href="https://www.linkedin.com/in/harshit-joshi-79600823b/">LinkedIn</a> ·
     <a href="mailto:harshit.dev409@gmail.com">Email</a>
   </p>
-
-  <img src="./asset/profile_card.svg" alt="Harshit Joshi — The Builder" width="100%" />
-
 </div>
 
 <br/>
@@ -68,6 +77,8 @@
 </div>
 
 <br/>
+
+---
 
 <div align="center">
 
