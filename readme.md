@@ -1,10 +1,7 @@
 # 
-
-<h1 align="center">Hey 👨‍💻 I'm Harshit Joshi</h1>
-
 <!-- Animated Coding Banner -->
 <p align="center">
-  <img src="./asset/banner.gif" alt="Harshit Joshi — Late-Night Developer Desk" width="100%" />
+  <img src="./asset/banner.gif" alt="Harshit Joshi — Late-Night Developer Desk" width="50%" height="50%" />
 </p>
 
 <!-- Introduction Card -->
