@@ -1,13 +1,14 @@
 # 
-<!-- Animated Coding Banner -->
-<p align="center">
-  <img src="./asset/banner.gif" alt="Harshit Joshi — Late-Night Developer Desk" width="50%" height="50%" />
-</p>
+
 
 <!-- Introduction Card -->
 <div align="center">
   <img src="./asset/profile_card.svg" alt="Harshit Joshi — The Builder" width="100%" />
 </div>
+<!-- Animated Coding Banner -->
+<p align="center">
+  <img src="./asset/banner.gif" alt="Harshit Joshi — Late-Night Developer Desk" width="100%" height="60%" />
+</p>
 
 <br/>
 
