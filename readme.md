@@ -7,7 +7,7 @@
 </div>
 <!-- Animated Coding Banner -->
 <p align="center">
-  <img src="./asset/banner.gif" alt="Harshit Joshi — Late-Night Developer Desk" width="100%" height="60%" />
+  <img src="./asset/banner.gif" alt="Harshit Joshi — Late-Night Developer Desk" width="90%" height="50%" />
 </p>
 
 <br/>
