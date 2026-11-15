@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 210" width="960" height="210">
+  <defs>
+    <pattern id="paperGrid" width="20" height="20" patternUnits="userSpaceOnUse">
+      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#e5dcc8" stroke-width="0.8"/>
+    </pattern>
+  </defs>
+
+  <rect width="960" height="210" rx="14" fill="#fbf7ee" stroke="#e2d7c1" stroke-width="1.5"/>
+  <rect width="960" height="210" rx="14" fill="url(#paperGrid)"/>
+
+  <!-- Eyebrow -->
+  <polygon points="44,34 48,40 44,46 40,40" fill="#dc2626"/>
+  <text x="58" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="700" letter-spacing="2.2" fill="#dc2626">THE BUILDER</text>
+
+  <!-- Name -->
+  <text x="42" y="84" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="34" font-weight="800" fill="#111827">Harshit Joshi</text>
+
+  <!-- Bio -->
+  <text x="42" y="116" font-family="Georgia, serif" font-size="16" fill="#374151">Building full-stack MERN products and AI-assisted workflows that ship fast.</text>
+  <text x="42" y="139" font-family="Georgia, serif" font-size="16" fill="#374151">BCA student at Amrapali University · focused on clean APIs, React, and DSA.</text>
+
+  <!-- Metadata footer -->
+  <text x="42" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#6b7280">Uttarakhand, India  ·  Amrapali University  ·  @harshitjoshi387  ·  MERN · C++ · Python</text>
+
+  <!-- Right Avatar / Emblem -->
+  <g transform="translate(845, 112)">
+    <!-- Compass N indicator -->
+    <polygon points="0,-78 4,-66 -4,-66" fill="#dc2626"/>
+    <text x="0" y="-82" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" font-weight="700" fill="#6b7280">N</text>
+    <circle r="56" fill="#0f172a" stroke="#dc2626" stroke-width="3"/>
+    <circle r="49" fill="none" stroke="#ff4500" stroke-width="1" stroke-dasharray="4 4" opacity="0.6"/>
+    <text y="12" text-anchor="middle" font-family="system-ui, sans-serif" font-size="34" font-weight="800" fill="#f8fafc">HJ</text>
+  </g>
+</svg>

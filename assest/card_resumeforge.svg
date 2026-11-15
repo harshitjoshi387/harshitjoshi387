@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 250" width="460" height="250">
+  <defs>
+    <linearGradient id="rBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+  <rect width="460" height="250" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="1" y="1" width="458" height="170" rx="11" fill="url(#rBg)"/>
+  <!-- Visual UI preview inside card -->
+  <rect x="24" y="24" width="230" height="124" rx="8" fill="#090d12" stroke="#1e293b" stroke-width="1"/>
+  <text x="38" y="54" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#ffffff">ResumeForge</text>
+  <text x="38" y="76" font-family="system-ui, sans-serif" font-size="18" font-weight="800" fill="#fb923c">ATS Builder</text>
+  <text x="38" y="102" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Structure, customize, and export</text>
+  <text x="38" y="118" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">recruiter-ready developer resumes.</text>
+  <!-- Mini resume preview -->
+  <rect x="268" y="24" width="168" height="124" rx="8" fill="#f8fafc"/>
+  <rect x="282" y="38" width="76" height="8" rx="2" fill="#0f172a"/>
+  <rect x="282" y="52" width="110" height="4" rx="2" fill="#94a3b8"/>
+  <rect x="282" y="66" width="140" height="1" fill="#cbd5e1"/>
+  <rect x="282" y="76" width="136" height="5" rx="2" fill="#475569"/>
+  <rect x="282" y="87" width="120" height="5" rx="2" fill="#64748b"/>
+  <rect x="282" y="98" width="130" height="5" rx="2" fill="#64748b"/>
+  <rect x="282" y="116" width="60" height="16" rx="4" fill="#ff4500"/>
+  <text x="312" y="127" text-anchor="middle" font-family="system-ui, sans-serif" font-size="9" font-weight="700" fill="#ffffff">EXPORT PDF</text>
+
+  <!-- Footer -->
+  <rect x="20" y="192" width="24" height="24" rx="5" fill="#ca8a04"/>
+  <text x="32" y="208" text-anchor="middle" font-family="ui-monospace, monospace" font-size="11" font-weight="700" fill="#ffffff">TS</text>
+  <text x="54" y="209" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#f0f6fc">ResumeForge</text>
+  <text x="440" y="209" text-anchor="end" font-family="ui-monospace, monospace" font-size="11" fill="#8b949e">Supabase · Vercel</text>
+  <text x="20" y="234" font-family="system-ui, sans-serif" font-size="12" fill="#8b949e">React · Node.js · Supabase · Render</text>
+</svg>
